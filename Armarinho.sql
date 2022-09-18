@@ -1,4 +1,4 @@
-create database Armandinho;
+create database Armarinho;
 
 create table clientes(
 id numeric,
